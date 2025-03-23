@@ -36,6 +36,7 @@ An example project for the esp32 is included at [examples](./examples)
 
 An example project for Linux (using [linux-embedded-hal](https://crates.io/crates/linux-embedded-hal) )
 is also included at [examples](./examples)
+**NOTE: because of workspace-related package depedencies this example must be built with `--no-default-features`**
 
 ## Supported Devices
 
